@@ -1,0 +1,18 @@
+// Faça um resumo para mim de como criar uma api para login usando spring seucirty + jwt
+
+1º Passo - Criar a entidade que representa o usuário com os campos necessários
+2º Passo - Criar o repository que irá acessar o banco de dados
+3ª Passo - Criar o service que irá acessar o repository
+4º Passo - Criar o controller que irá acessar o service
+5º Passo - Criar a classe que irá gerar o token
+6º Passo - Configurar o Security Filter para validar o token
+7º Passo - Criar a Classe CustomUserDetailsService que irá buscar o usuário no banco de dados
+8º Passo - Criar o SecurityConfig que irá configurar o Spring Security que vai montar todas as peças da segurança
+
+
+// Faça um resumo para mim de como criar uma api para login usando spring seucirty + jwt
+
+
+
+
+1º Passo - Criar a entidade que
