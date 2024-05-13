@@ -2,7 +2,8 @@
 
 - Este repositório contém um projeto de estudos utilizando Java Spring e Angular para criar um aplicativo de login.
 - Referente ao vídeo: https://www.youtube.com/watch?v=tJCyNV1G0P4 e feito por [Fernanda Kipper](https://github.com/Fernanda-Kipper/Fernanda-Kipper)
-- Este repositório contém um projeto de estudos utilizando Java Spring e Angular para criar um aplicativo de login. 
+- Este repositório contém um projeto de estudos utilizando Java Spring e Angular para criar um aplicativo de login.
+- Front End : https://github.com/Fernanda-Kipper/login-page
 
 ## Tecnologias Utilizadas:
 - **Java Spring**: Framework principal para o backend.
